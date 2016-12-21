@@ -1,9 +1,9 @@
-# Hello, world
+# Hello, world!
 
-## Test
+Get in touch: kellychristeenbolding at gmail dot com
 
-### Test
+Read my blog posts: [https://blogs.princeton.edu/techsvs/author/kbolding/]
 
-1. thing 1
-2. thing 2
-3. thing 3
+LinkedIn: [https://www.linkedin.com/in/kelly-bolding-b7886464]
+
+Twitter: [https://twitter.com/okbolding]
